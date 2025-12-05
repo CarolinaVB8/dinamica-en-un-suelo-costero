@@ -3,4 +3,5 @@ Este repositorio es para desarrollar el proyecto final del ramo Visualización d
 
 **Disclaimer:** Por temas de privacidad de datos (investigación asociada a un FONDECYT), no se hace referencia al lugar específico del área de estudio.
 
-https://cl.portalterreno.com/propiedad/venta/agricola/maullin/297999-carelmapu
+
+![88f535a0-c2ad-5e69-b19c-65886f98cd29](https://github.com/user-attachments/assets/30e5f2f6-ace9-44ba-866b-966a8fb23502)
