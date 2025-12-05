@@ -5,6 +5,6 @@
 library(readxl)
 
 #Cargar datos
-estacion <- read_xlsx("Estacion_meteorologica.xlsx")
-teros <- read_xlsx("Teros-12_20cm.xlsx")
+estacion <- read_xlsx("datos/raw/Estacion_meteorologica.xlsx")
+teros <- read_xlsx("datos/raw/Teros-12_20cm.xlsx")
 
