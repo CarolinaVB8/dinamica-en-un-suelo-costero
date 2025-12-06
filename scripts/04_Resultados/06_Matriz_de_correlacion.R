@@ -1,4 +1,7 @@
-# Matriz de correlación (SIN pairwise) — prettier + asteriscos de significancia
+# MATRIZ DE CORRELACIÓN
+# Se usó stackoverflow y chatgpt para desarrollar el código
+# Se utilizó chatgpt para depurar, ordenar, modificar y optimizar los códigos propuestos inicialmente
+
 library(dplyr)
 library(tidyr)
 library(ggplot2)
